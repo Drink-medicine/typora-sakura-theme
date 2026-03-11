@@ -35,9 +35,13 @@ This is a standalone Sakura (Cherry Blossom Pink) theme based on [Phycat Theme](
 
 清新明亮的樱花粉主题，适合白天使用。
 
+![Phycat Sakura Light](assets/phycat-sakura.png)
+
 ### Phycat Sakura Dark (Dark / 暗色)
 
 舒适护眼的暗色樱花粉主题，保留了樱花粉的优雅色调，适合夜间使用。
+
+![Phycat Sakura Dark](assets/phycat-sakura-dark.png)
 
 ---
 
